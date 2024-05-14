@@ -1,0 +1,9 @@
+gpt2/README.md
+gpt2/train_result_GPT2_alibi.txt
+gpt2/train_result_GPT2_pos_embeding.txt
+gpt2/train_result_GPT2_RoPE.txt
+gpt2/wikitext_10000_512tokens/*
+gpt2/Results/*
+.DS_Store
+gpt2/gpt2model
+gpt2/__pycache__
